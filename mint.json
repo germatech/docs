@@ -1,5 +1,6 @@
 {
-  "name": "Labeeb",
+  "$schema": "https://mintlify.com/schema.json",
+  "name": "Quivr",
   "favicon": "/favicon.svg",
   "colors": {
     "primary": "#0D9373",
@@ -13,12 +14,12 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:mahdi@geramantix.com"
+      "url": "mailto:stan@quivr.app"
     }
   ],
   "topbarCtaButton": {
-    "name": "Try Labeeb",
-    "url": "https://app.geramantix.com"
+    "name": "Try Quivr",
+    "url": "https://quivr.app"
   },
   "tabs": [
     {
@@ -34,17 +35,17 @@
     {
       "name": "Community",
       "icon": "discord",
-      "url": ""
+      "url": "https://discord.gg/HUpRgp2HG8"
     },
     {
       "name": "Blog",
       "icon": "newspaper",
-      "url": "https://app.geramantix.com/blog"
+      "url": "https://quivr.app/blog"
     },
     {
       "name": "Status",
       "icon": "signal",
-      "url": "https://uptime.geramantix.com"
+      "url": "https://uptime.quivr.app"
     }
   ],
   "navigation": [
@@ -249,19 +250,19 @@
     }
   ],
   "footerSocials": {
-    "twitter": "",
-    "github": "https://github.com/germatech/labeeb",
-    "linkedin": "",
-    "telegram": ""
+    "twitter": "https://twitter.com/quivr_brain",
+    "github": "https://github.com/stangirard/quivr",
+    "linkedin": "https://www.linkedin.com/company/getquivr",
+    "discord": "https://discord.gg/HUpRgp2HG8"
   },
-  "openapi": "https://api.geramantix.com/openapi.json",
+  "openapi": "https://api.quivr.app/openapi.json",
   "feedback": {
     "thumbsRating": true,
     "raiseIssue": true,
     "suggestEdit": true
   },
   "api": {
-    "baseUrl": "https://api.geramantix.com",
+    "baseUrl": "https://api.quivr.app",
     "auth": {
       "method": "bearer"
     }
