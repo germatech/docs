@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 1024 1024" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient gradientTransform="matrix(1.53742 0 0 1.53742 -275.159 -275.159)" gradientUnits="userSpaceOnUse" id="LinearGradient" x1="216.176" x2="807.824" y1="512" y2="512">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#908d90"/>
+</linearGradient>
+</defs>
+<g id="Layer-1" vectornator:layerName="Layer 1">
+<g opacity="1" vectornator:layerName="Group 3">
+<g opacity="1" vectornator:layerName="Group 2">
+<g opacity="1" vectornator:layerName="Group 1">
+<path d="M553.488 28.7337C408.22 31.8001 308.342 89.7434 308.342 89.7434L512.491 406.478L610.382 263.478C643.851 266.888 726.866 317.586 726.866 317.586L656.678 418.717L525.134 420.097L521.415 589.783L425.477 727.17C362.433 690.751 343.761 629.076 343.761 629.076L428.916 503.376L200.132 174.402C-89.7879 492.761 151.047 800.971 151.047 800.971C359.168 1100.59 749.828 964.583 749.828 964.583L534.058 642.971L694.979 642.695L877.374 908.175L966.805 838.699L963.18 422.766L716.454 420.189L910.19 144.22C793.558 60.538 679.832 31.9561 583.143 28.9178C573.072 28.6013 563.172 28.5293 553.488 28.7337ZM557.021 81.0015C635.697 79.4587 734.303 95.6582 836.005 158.391L757.172 273.233C757.172 273.233 623.874 173.802 459.78 224.83L387.547 114.405C387.547 114.405 455.865 82.9849 557.021 81.0015ZM548.468 259.429L515.652 312.065L492.039 270.38L548.468 259.429ZM195.484 264.399L291.237 395.436C291.237 395.436 209.866 564.525 329.073 708.122C329.073 708.122 421.8 839.223 589.93 820.939L662.349 935.873C662.349 935.873 347.332 1017.09 177.728 748.795C177.728 748.795 20.3011 500.705 195.484 264.399ZM327.307 456.446L364.585 500.247L322.194 560.153C322.194 560.153 308.206 496.579 327.307 456.446ZM580.076 474.942L911.678 475.678L912.793 822.596L890.854 838.699L771.674 671.222L770.373 589.783L577.751 591.072L580.076 474.942ZM512.956 700.668L553.023 768.027L474.19 752.384L512.956 700.668Z" fill="url(#LinearGradient)" fill-rule="nonzero" opacity="1" stroke="none"/>
+</g>
+</g>
+</g>
+</g>
+</svg>
