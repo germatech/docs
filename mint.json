@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Quivr",
+  "name": "Labeeb",
   "favicon": "/favicon.svg",
   "colors": {
     "primary": "#0D9373",
@@ -265,12 +265,6 @@
     "baseUrl": "https://api.quivr.app",
     "auth": {
       "method": "bearer"
-    }
-  },
-  "analytics": {
-    "posthog": {
-      "apiKey": "phc_BqYCVB8PX7VlzNU5MjbN8sET6soqW7jQVq6PrT9pJSJ",
-      "apiHost": "https://us.posthog.com"
     }
   }
 }
