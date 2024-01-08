@@ -35,17 +35,17 @@
     {
       "name": "Community",
       "icon": "discord",
-      "url": "https://discord.gg/HUpRgp2HG8"
+      "url": "https://discord.gg"
     },
     {
       "name": "Blog",
       "icon": "newspaper",
-      "url": "https://quivr.app/blog"
+      "url": "https://app.geramantix.com/blog"
     },
     {
       "name": "Status",
       "icon": "signal",
-      "url": "https://uptime.quivr.app"
+      "url": "https://uptime.geramantix.com"
     }
   ],
   "navigation": [
@@ -113,17 +113,17 @@
     {
       "group": "Integrating",
       "pages": [
-        "developers/useQuivr/getting_started",
-        "developers/useQuivr/get_your_api_key",
-        "developers/useQuivr/error_handling",
-        "developers/useQuivr/chat",
+        "developers/useLabeeb/getting_started",
+        "developers/useLabeeb/get_your_api_key",
+        "developers/useLabeeb/error_handling",
+        "developers/useLabeeb/chat",
         {
           "group": "Brains",
           "pages": [
-            "developers/useQuivr/brain/create_a_brain",
-            "developers/useQuivr/brain/retrieve_brain_attributes",
-            "developers/useQuivr/brain/set_default_brain",
-            "developers/useQuivr/brain/update_a_brain"
+            "developers/useLabeeb/brain/create_a_brain",
+            "developers/useLabeeb/brain/retrieve_brain_attributes",
+            "developers/useLabeeb/brain/set_default_brain",
+            "developers/useLabeeb/brain/update_a_brain"
           ]
         }
       ]
@@ -250,10 +250,10 @@
     }
   ],
   "footerSocials": {
-    "twitter": "https://twitter.com/quivr_brain",
-    "github": "https://github.com/stangirard/quivr",
-    "linkedin": "https://www.linkedin.com/company/getquivr",
-    "discord": "https://discord.gg/HUpRgp2HG8"
+    "twitter": "https://twitter.com/",
+    "github": "https://github.com/",
+    "linkedin": "https://www.linkedin.com/",
+    "discord": "https://discord.gg"
   },
   "openapi": "https://api.quivr.app/openapi.json",
   "feedback": {
