@@ -3,12 +3,16 @@
   "name": "Labeeb",
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#8a2be2",
+    "light": "#824bf2",
+    "dark": "#8a2be2",
+    "background": {
+      "dark": "#020104",
+      "light": "#f4f2ff"
+    },
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#103783",
+      "to": "#1A0F29"
     }
   },
   "topbarLinks": [
