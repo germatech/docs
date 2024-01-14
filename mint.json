@@ -18,7 +18,7 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:stan@quivr.app"
+      "url": "mailto:team@mail.geramantix.com"
     }
   ],
   "topbarCtaButton": {
@@ -49,7 +49,7 @@
     {
       "name": "Status",
       "icon": "signal",
-      "url": "https://uptime.geramantix.com"
+      "url": "https://stats.uptimerobot.com/wWsOqloJzP"
     }
   ],
   "navigation": [
