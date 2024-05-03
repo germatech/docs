@@ -7,16 +7,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Checks-out your repository
+      # Checks-out your repository at the push commit
       - uses: actions/checkout@v2
-        with:
-          submodules: 'true'
-          ref: ${{ github.ref }}
 
+      # Minify step
       - name: Minify Action
         uses: anthonyftwang/minify-action@v1.0.1
 
-      # Auto-commit to repository
+      # Auto-commit the changes to repository
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Minify source code
